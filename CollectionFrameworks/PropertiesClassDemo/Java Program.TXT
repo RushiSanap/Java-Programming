@@ -1,0 +1,7 @@
+#Laptop
+#Tue Aug 03 21:53:12 IST 2021
+Name=Rushikesh
+Nationality=Indian
+Address=Nashik
+Age=21
+

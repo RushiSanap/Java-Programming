@@ -1,0 +1,6 @@
+#Laptop
+#Tue Aug 03 22:01:25 IST 2021
+Brand=Asus
+Processor=I7
+OS=Windows
+Model=Latitude

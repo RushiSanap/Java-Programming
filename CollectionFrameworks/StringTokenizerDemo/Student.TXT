@@ -1,0 +1,4 @@
+Name=Rushikesh
+Nationality=Indian
+Age=21
+District=Nashik
